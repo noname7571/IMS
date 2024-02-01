@@ -1,0 +1,812 @@
+Employee 88 arrives at the station.
+Employee 99 arrives at the station.
+Employee 125 arrives at the station.
+Employee 261 arrives at the station.
+Employee 282 arrives at the station.
+Employee 586 arrives at the station.
+Employee 858 arrives at the station.
+Employee 967 arrives at the station.
+Announcement: Train arriving soon!
+Train  1 arrives at the station.
+Person 923 is going shopping.
+Person 27 is going shopping.
+Late! Leaves the station.
+Person 878 is going shopping.
+Person 762 is going shopping.
+Person 380 is going shopping.
+Person 616 is going shopping.
+Person 410 is going to the toilet.
+Person 709 is going to the toilet.
+Person 738 is going shopping.
+Person 921 is going shopping.
+Person 246 is going to the toilet.
+Person 493 is going shopping.
+Person 294 is going shopping.
+Person 22 is going to the toilet.
+Late! Leaves the station.
+Person 49 is going shopping.
+Late! Leaves the station.
+Person 194 is going shopping.
+Late! Leaves the station.
+Person 277 is going shopping.
+Person 769 is going to the toilet.
+Person 852 is going shopping.
+Late! Leaves the station.
+Person 548 is going shopping.
+Person 23 is going shopping.
+Late! Leaves the station.
+Person 19 is going shopping.
+Person 772 is going shopping.
+Person 656 is going shopping.
+Person 14 is going to the toilet.
+Person 789 is going to the toilet.
+Person 500 is going shopping.
+Person 684 is going shopping.
+Person 971 is going to the toilet.
+Late! Leaves the station.
+Late! Leaves the station.
+Person 936 is going shopping.
+Person 987 is going shopping.
+Person 422 is going to the toilet.
+Person 668 is going to the toilet.
+Person 238 is going shopping.
+Person 758 is going shopping.
+Person 654 is going shopping.
+Person 727 is going shopping.
+Person 503 is going shopping.
+Person 874 is going shopping.
+Person 771 is going shopping.
+Late! Leaves the station.
+Person 336 is going to the toilet.
+Person 264 is going to the toilet.
+Person 880 is going shopping.
+Person 191 is going to the toilet.
+Person 35 is going shopping.
+Person 256 is going shopping.
+Person 539 is going shopping.
+Late! Leaves the station.
+Person 394 is going shopping.
+Person 773 is going shopping.
+Person 946 is going to the toilet.
+Person 225 is going shopping.
+Person 849 is going to the toilet.
+Person 961 is going shopping.
+Person 902 is going shopping.
+Person 633 is going to the toilet.
+Person 367 is going shopping.
+Person 258 is going shopping.
+Person 927 is going shopping.
+Person 123 is going shopping.
+Person 622 is going shopping.
+Person 571 is going to the toilet.
+Person 65 is going shopping.
+Person 398 is going to the toilet.
+Person 208 is going to the toilet.
+Person 621 is going shopping.
+Person 202 is going to the toilet.
+Person 405 is going shopping.
+Person 938 is going to the toilet.
+Person 690 is going shopping.
+Person 212 is going shopping.
+Person 783 is going shopping.
+Train  1 departs from the station.
+Train  1 is on time. Transportation time: 38.5297 minutes.
+Person 448 is going shopping.
+Person 161 is going to the toilet.
+Person 739 is going to the toilet.
+Person 711 is going shopping.
+Person 430 is going to the toilet.
+Person 757 is going shopping.
+Person  6 is going shopping.
+Person 550 is going to the toilet.
+Person 273 is going to the toilet.
+Person 244 is going to the toilet.
+Person 570 is going shopping.
+Person 465 is going shopping.
+Person 532 is going shopping.
+Person 73 is going shopping.
+Person 163 is going shopping.
+Late! Leaves the station.
+Person 578 is going shopping.
+Person 510 is going to the toilet.
+Person 985 is going shopping.
+Person 772 is going to the toilet after shopping.
+Person 351 is going shopping.
+Person 618 is going shopping.
+Person 33 is going to the toilet.
+Person 685 is going shopping.
+Person 948 is going shopping.
+Person 211 is going to the toilet.
+Person 387 is going to the toilet.
+Person 232 is going shopping.
+Person 552 is going shopping.
+Person 669 is going to the toilet.
+Late! Leaves the station.
+Person 11 is going shopping.
+Person 884 is going to the toilet.
+Person 153 is going shopping.
+Person 427 is going shopping.
+Person 361 is going shopping.
+Person 816 is going shopping.
+Person 848 is going shopping.
+Person 162 is going to the toilet.
+Person 523 is going shopping.
+Person 374 is going to the toilet.
+Person 34 is going shopping.
+Person 635 is going shopping.
+Person 283 is going shopping.
+Person 952 is going shopping.
+Person 83 is going shopping.
+Person 970 is going shopping.
+Late! Leaves the station.
+Late! Leaves the station.
+Person 547 is going to the toilet.
+Late! Leaves the station.
+Late! Leaves the station.
+Person 45 is going shopping.
+Person 716 is going to the toilet.
+Person 208 is going shopping after toilet.
+Person 756 is going shopping.
+Person 221 is going shopping.
+Late! Leaves the station.
+Person 15 is going shopping.
+Person 339 is going shopping.
+Person 869 is going to the toilet.
+Person 545 is going shopping.
+Person 408 is going shopping.
+Person 603 is going shopping.
+Person 191 is going shopping after toilet.
+Late! Leaves the station.
+Person 886 is going shopping.
+Person 741 is going shopping.
+Person 717 is going to the toilet.
+Person 696 is going to the toilet.
+Person 913 is going shopping.
+Person 480 is going shopping.
+Person 657 is going shopping.
+Person 864 is going to the toilet.
+Person 56 is going shopping.
+Person 287 is going shopping.
+Person 733 is going to the toilet.
+Person 47 is going to the toilet.
+Person 472 is going to the toilet.
+Person 745 is going to the toilet.
+Late! Leaves the station.
+Person 688 is going shopping.
+Person 311 is going to the toilet.
+Person 471 is going to the toilet.
+Person 165 is going shopping.
+Person  7 is going shopping.
+Person 815 is going to the toilet.
+Person 914 is going to the toilet.
+Person 955 is going shopping.
+Person 236 is going to the toilet.
+Late! Leaves the station.
+Person 526 is going shopping.
+Person 954 is going shopping.
+Person 407 is going shopping.
+Person 369 is going shopping.
+Person 978 is going shopping.
+Person 295 is going shopping.
+Person 220 is going to the toilet.
+Person 372 is going shopping.
+Person 754 is going to the toilet.
+Person 21 is going to the toilet.
+Person 844 is going to the toilet.
+Person 776 is going to the toilet.
+Person 808 is going shopping.
+Person 707 is going to the toilet.
+Person 136 is going shopping.
+Person 855 is going to the toilet.
+Late! Leaves the station.
+Person 92 is going shopping.
+Person 401 is going to the toilet.
+Person 894 is going to the toilet.
+Person 747 is going to the toilet.
+Person 38 is going shopping.
+Person 734 is going to the toilet.
+Person 474 is going shopping.
+Person 335 is going to the toilet.
+Person 359 is going shopping.
+Person 968 is going shopping.
+Person 996 is going shopping.
+Person 542 is going shopping.
+Person 720 is going shopping.
+Person 583 is going shopping.
+Person 16 is going shopping.
+Person 512 is going shopping.
+Late! Leaves the station.
+Person 776 is going shopping after toilet.
+Person 320 is going to the toilet.
+Late! Leaves the station.
+Person 516 is going to the toilet.
+Person 57 is going to the toilet.
+Person 924 is going shopping.
+Person 454 is going shopping.
+Person 950 is going shopping.
+Person 784 is going shopping.
+Person 440 is going shopping.
+Person 998 is going shopping.
+Late! Leaves the station.
+Person 331 is going shopping.
+Person 903 is going to the toilet.
+Person 101 is going shopping.
+Person 596 is going to the toilet.
+Person 459 is going to the toilet.
+Person 886 is going to the toilet after shopping.
+Late! Leaves the station.
+Late! Leaves the station.
+Person 755 is going shopping.
+Person 424 is going to the toilet.
+Person 217 is going to the toilet.
+Person 938 is going shopping after toilet.
+Late! Leaves the station.
+Person 549 is going shopping.
+Person 64 is going shopping.
+Person 24 is going shopping.
+Person 564 is going shopping.
+Person 813 is going shopping.
+Late! Leaves the station.
+Person 780 is going shopping.
+Person 249 is going to the toilet.
+Person 746 is going shopping.
+Person 704 is going shopping.
+Person 157 is going shopping.
+Person 833 is going shopping.
+Person 241 is going shopping.
+Person 251 is going shopping.
+Person 273 is going shopping after toilet.
+Person 275 is going shopping.
+Person 54 is going to the toilet.
+Person 579 is going shopping.
+Person 897 is going to the toilet.
+Person 400 is going shopping.
+Person 386 is going to the toilet.
+Person 951 is going to the toilet.
+Person 609 is going to the toilet.
+Person 220 is going shopping after toilet.
+Person 926 is going shopping.
+Late! Leaves the station.
+Late! Leaves the station.
+Person 413 is going shopping.
+Person 319 is going shopping.
+Person 74 is going shopping.
+Late! Leaves the station.
+Person 685 is going to the toilet after shopping.
+Person 946 is going shopping after toilet.
+Person 668 is going shopping after toilet.
+Person 142 is going to the toilet.
+Person 336 is going shopping after toilet.
+Person 133 is going shopping.
+Person 262 is going shopping.
+Person 999 is going shopping.
+Person 282 is going to the toilet.
+Late! Leaves the station.
+Person 682 is going to the toilet.
+Person 743 is going to the toilet.
+Person 59 is going shopping.
+Person 85 is going shopping.
+Person 169 is going shopping.
+Person 616 is going to the toilet.
+Person 358 is going to the toilet.
+Person 81 is going to the toilet.
+Person 625 is going shopping.
+Person 244 is going shopping after toilet.
+Person 673 is going shopping.
+Late! Leaves the station.
+Person 305 is going to the toilet.
+Person 617 is going shopping.
+Late! Leaves the station.
+Person 894 is going shopping after toilet.
+Person 242 is going shopping.
+Person 615 is going shopping.
+Person 929 is going shopping.
+Person 100 is going shopping.
+Person 565 is going shopping.
+Late! Leaves the station.
+Person 48 is going shopping.
+Person 943 is going shopping.
+Person 630 is going shopping.
+Person 862 is going shopping.
+Person 151 is going shopping.
+Person 387 is going shopping after toilet.
+Person 771 is going to the toilet after shopping.
+Person 529 is going to the toilet.
+Person 176 needs to find another seat. Seat was reserved.
+Person 369 is going to the toilet after shopping.
+Person 745 is going shopping after toilet.
+Late! Leaves the station.
+Person 286 is going to the toilet.
+Person 346 needs to find another seat. Seat was reserved.
+Person 754 is going shopping after toilet.
+Person 630 is going to the toilet after shopping.
+Person 508 is going to the toilet.
+Late! Leaves the station.
+Person 986 is going to the toilet.
+Person 986 is going shopping after toilet.
+Person 550 is going shopping after toilet.
+Person 212 is going to the toilet after shopping.
+Person 915 is going to the toilet.
+Person 610 is going to the toilet.
+Late! Leaves the station.
+Person 303 is going to the toilet.
+Person 335 is going shopping after toilet.
+Person 457 is going to the toilet.
+Person 69 is going to the toilet.
+Person 711 is going to the toilet after shopping.
+Person 355 is going to the toilet.
+Person 768 is going to the toilet.
+Person 941 needs to find another seat. Seat was reserved.
+Person 941 is going to the toilet.
+Person 568 is going to the toilet.
+Person 1000 is going to the toilet.
+Person 176 is going to the toilet.
+Person 471 is going shopping after toilet.
+Person 929 is going to the toilet after shopping.
+Person 247 needs to find another seat. Seat was reserved.
+Person 448 is going to the toilet.
+Person 40 is going to the toilet.
+Person 72 is going to the toilet.
+Person 764 is going to the toilet.
+Person 171 is going to the toilet.
+Person 358 is going to the toilet.
+Person 579 is going to the toilet.
+Person 645 is going shopping.
+Person 547 is going shopping after toilet.
+Person 657 is going to the toilet after shopping.
+Person 482 is going to the toilet.
+Person 866 is going to the toilet.
+Person 930 is going to the toilet.
+Person 37 is going to the toilet.
+Person 718 is going to the toilet.
+Person 47 is going to the toilet.
+Person 480 is going to the toilet.
+Person 682 is going to the toilet.
+Person 334 is going to the toilet.
+Person 688 is going to the toilet.
+Person  2 is going to the toilet.
+Person 479 needs to find another seat. Seat was reserved.
+Person 78 is going to the toilet.
+Person 367 is going to the toilet.
+Person 717 is going to the toilet.
+Person 293 is going to the toilet.
+Person 852 is going to the toilet.
+Person 702 needs to find another seat. Seat was reserved.
+Person 263 is going to the toilet.
+Person 878 is going to the toilet.
+Person 178 is going to the toilet.
+Person 479 is going to the toilet.
+Person 702 is going to the toilet.
+Person 811 is going to the toilet.
+Person 860 is going to the toilet.
+Person 193 is going to the toilet.
+Person 360 is going to the toilet.
+Person 690 is going to the toilet.
+Person 45 is going to the toilet.
+Person 733 is going to the toilet.
+Person 569 is going to the toilet.
+Person 497 needs to find another seat. Seat was reserved.
+Person 23 is going to the toilet.
+Person 583 is going to the toilet.
+Person 571 is going to the toilet.
+Person 162 is going to the toilet.
+Person 272 needs to find another seat. Seat was reserved.
+Person 911 is going to the toilet.
+Person 497 is going to the toilet.
+Person 695 is going to the toilet.
+Person 221 is going to the toilet.
+Person 422 is going to the toilet.
+Employee 91 is preparing food.
+Person 142 is going to the toilet.
+Person 713 is going to the toilet.
+Person 960 is going to the toilet.
+Person 762 is going to the toilet after shopping.
+Person 406 needs to find another seat. Seat was reserved.
+Person 478 is going to the toilet.
+Person 626 is going to the toilet.
+Person 534 is going to the toilet.
+Person 136 is going to the toilet after shopping.
+Employee 322 is preparing food.
+Person 406 is going to the toilet.
+Person 618 is going to the toilet.
+Person 667 is going to the toilet.
+Person 287 is going to the toilet.
+Person 756 is going to the toilet.
+Person 134 is going to the toilet.
+Person 657 is going to the toilet.
+Person 653 needs to find another seat. Seat was reserved.
+Person 83 needs to find another seat. Seat was reserved.
+Employee 182 is preparing food.
+Person 931 is going to the toilet.
+Person 54 is going to the toilet.
+Person 974 is going to the toilet.
+Person 258 is going to the toilet after shopping.
+Person 884 is going to the toilet.
+Person 58 is going to the toilet.
+Person 513 is going to the toilet.
+Employee 981 is preparing food.
+Person 995 is going to the toilet.
+Person 16 needs to find another seat. Seat was reserved.
+Person 708 is going to the toilet.
+Person 183 is going to the toilet.
+Person 841 is going to the toilet.
+Person 653 is going to the toilet.
+Person 669 is going to the toilet.
+Person 869 needs to find another seat. Seat was reserved.
+Person 511 is going to the toilet.
+Person 157 needs to find another seat. Seat was reserved.
+Person 35 is going to the toilet.
+Person 458 is going to the toilet.
+Person 244 is going to the toilet.
+Person 924 is going to the toilet.
+Person 49 is going to the toilet.
+Person 876 is going to the toilet.
+Person 701 is going to the toilet.
+Person 831 is going to the toilet.
+Person 136 is going to the toilet.
+Person 207 is going to the toilet.
+Person 232 is going to the toilet.
+Person 949 is going to the toilet.
+Person 51 is going to the toilet.
+Person 400 is going to the toilet after shopping.
+Person 117 is going to the toilet.
+Person 465 is going to the toilet.
+Person 167 is going to the toilet.
+Person 320 is going to the toilet.
+Person 174 is going to the toilet.
+Person 364 is going to the toilet.
+Announcement: Train arriving soon!
+Train  2 arrives at the station.
+Person 458 leaves the train.
+Person 71 boards the train.
+Person 23 leaves the train.
+Person 828 boards the train.
+Person 852 leaves the train.
+Person 637 boards the train.
+Person 432 leaves the train.
+Person 648 boards the train.
+Person 210 leaves the train.
+Person 161 leaves the train.
+Person 136 leaves the train.
+Person  7 boards the train.
+Person 397 boards the train.
+Person 678 leaves the train.
+Person 304 leaves the train.
+Person 376 leaves the train.
+Person 335 boards the train.
+Person 256 boards the train.
+Person 301 boards the train.
+Person 12 leaves the train.
+Person 973 boards the train.
+Person 47 leaves the train.
+Person 716 boards the train.
+Person 990 boards the train.
+Person 374 leaves the train.
+Person 28 boards the train.
+Person 166 boards the train.
+Person 321 boards the train.
+Person 59 boards the train.
+Person 86 leaves the train.
+Person 818 boards the train.
+Person 242 leaves the train.
+Person 195 boards the train.
+Person 391 boards the train.
+Person 159 boards the train.
+Person 465 leaves the train.
+Person 89 boards the train.
+Person  5 leaves the train.
+Person 811 leaves the train.
+Person 845 leaves the train.
+Person 647 boards the train.
+Person 711 leaves the train.
+Person 938 boards the train.
+Person 870 leaves the train.
+Person 202 boards the train.
+Person 320 leaves the train.
+Person 983 boards the train.
+Person 774 boards the train.
+Person 671 leaves the train.
+Person 478 leaves the train.
+Person 574 leaves the train.
+Person 561 boards the train.
+Person 539 leaves the train.
+Person 269 boards the train.
+Person 343 boards the train.
+Person 771 leaves the train.
+Train  2 departs from the station.
+Train  2 is on time. Transportation time: 15.5555 minutes.
+Person 348 needs to find another seat. Seat was reserved.
+Person 348 is going to the toilet.
+Person 549 needs to find another seat. Seat was reserved.
+Person 24 is going to the toilet.
+Employee 531 is preparing food.
+Person 447 is going to the toilet.
+Person 622 is going to the toilet.
+Person 742 needs to find another seat. Seat was reserved.
+Person 430 is going to the toilet.
+Person 443 is going to the toilet.
+Person 266 is going to the toilet.
+Person 339 is going to the toilet.
+Person 401 is going to the toilet.
+Person 950 needs to find another seat. Seat was reserved.
+Person 945 is going to the toilet.
+Person 149 is going to the toilet.
+Person 952 is going to the toilet.
+Person 584 is going to the toilet.
+Person 989 is going to the toilet.
+Person 780 is going to the toilet after shopping.
+Person 541 is going to the toilet.
+Person 950 is going to the toilet.
+Person 481 is going to the toilet.
+Person 982 is going to the toilet.
+Person 646 is going to the toilet.
+Person 359 is going to the toilet.
+Person 194 is going to the toilet.
+Person 968 is going to the toilet.
+Person 533 is going to the toilet.
+Person 435 is going to the toilet.
+Person 198 is going to the toilet.
+Person 553 is going to the toilet.
+Person 106 is going to the toilet.
+Person 898 needs to find another seat. Seat was reserved.
+Person 135 is going to the toilet.
+Person 978 is going to the toilet.
+Person 617 is going to the toilet.
+Person 366 is going to the toilet.
+Person 898 is going to the toilet.
+Person 311 is going to the toilet.
+Person 239 is going to the toilet.
+Person 817 is going to the toilet.
+Announcement: Train arriving soon!
+Train  3 arrives at the station.
+Person 538 boards the train.
+Person 525 leaves the train.
+Person 738 leaves the train.
+Person 946 boards the train.
+Person 533 leaves the train.
+Person 113 leaves the train.
+Person 754 boards the train.
+Person 745 boards the train.
+Person 897 leaves the train.
+Person 989 leaves the train.
+Person 617 leaves the train.
+Person 319 leaves the train.
+Person 737 leaves the train.
+Person 174 leaves the train.
+Person 281 leaves the train.
+Person 262 leaves the train.
+Person 344 leaves the train.
+Person 575 boards the train.
+Person 702 leaves the train.
+Person 797 leaves the train.
+Person 169 boards the train.
+Person 382 leaves the train.
+Person 298 leaves the train.
+Person 837 boards the train.
+Person 674 boards the train.
+Person 421 leaves the train.
+Person 859 boards the train.
+Person 982 leaves the train.
+Person 410 boards the train.
+Person 137 leaves the train.
+Person 469 leaves the train.
+Train  3 departs from the station.
+Train  3 is on time. Transportation time: 3.94114 minutes.
+Person 61 is going to the toilet.
+Person 932 is going to the toilet.
+Employee 785 is preparing food.
+Person 741 is going to the toilet.
+Person 969 is going to the toilet.
+Employee 251 is preparing food.
+Person 997 is going to the toilet.
+Person 747 is going to the toilet.
+Announcement: Train arriving soon!
+Train  4 arrives at the station.
+Person 950 leaves the train.
+Person 565 leaves the train.
+Person 445 boards the train.
+Train  4 departs from the station.
+Train  4 is on time. Transportation time: 33.5529 minutes.
+Person 916 is going to the toilet.
+Person 551 is going to the toilet.
+Person 510 is going to the toilet.
+Person 874 needs to find another seat. Seat was reserved.
+Person 536 is going to the toilet.
+Person 522 is going to the toilet.
+Person 874 is going to the toilet.
+Person 909 needs to find another seat. Seat was reserved.
+Person 540 is going to the toilet.
+Person 439 is going to the toilet.
+Person 455 is going to the toilet.
+Person 639 is going to the toilet.
+Person 127 is going to the toilet.
+Person 175 is going to the toilet.
+Person 573 is going to the toilet.
+Person 163 is going to the toilet.
+Person 46 is going to the toilet.
+Person 529 is going to the toilet.
+Person 798 needs to find another seat. Seat was reserved.
+Person 675 is going to the toilet.
+Person 394 is going to the toilet.
+Person 928 is going to the toilet.
+Person 910 is going to the toilet.
+Person 253 is going to the toilet.
+Person 222 is going to the toilet.
+Person 264 is going to the toilet.
+Person 124 is going to the toilet.
+Person 416 is going to the toilet.
+Person 547 is going to the toilet.
+Person 661 is going to the toilet.
+Person 506 is going to the toilet.
+Person 498 is going to the toilet.
+Person 723 is going to the toilet.
+Employee 599 is checking tickets.
+Person 835 is going to the toilet.
+Person 288 needs to find another seat. Seat was reserved.
+Person 233 is going to the toilet.
+Person 847 is going to the toilet.
+Person 26 is going to the toilet.
+Person 450 is going to the toilet.
+Person 146 needs to find another seat. Seat was reserved.
+Person 271 is going to the toilet.
+Person 424 is going to the toilet.
+Person 503 is going to the toilet.
+Person 428 is going to the toilet.
+Person 128 is going to the toilet.
+Person 904 is going to the toilet.
+Person 943 is going to the toilet.
+Person 245 is going to the toilet.
+Person 905 is going to the toilet.
+Person 227 is going to the toilet.
+Person 449 is going to the toilet.
+Announcement: Train arriving soon!
+Train  5 arrives at the station.
+Person 416 leaves the train.
+Person 371 needs to find another seat. Seat was reserved.
+Person 371 leaves the train.
+Person 903 leaves the train.
+Person 424 leaves the train.
+Person 564 boards the train.
+Person 180 boards the train.
+Person 373 boards the train.
+Person 725 leaves the train.
+Person 926 boards the train.
+Person 735 boards the train.
+Train  5 departs from the station.
+Train  5 is on time. Transportation time: 49.2835 minutes.
+Person 246 needs to find another seat. Seat was reserved.
+Employee 921 is preparing food.
+Employee 31 is preparing food.
+Person 896 needs to find another seat. Seat was reserved.
+Person 619 is going to the toilet.
+Person 912 is going to the toilet.
+Person 259 is going to the toilet.
+Person 953 is going to the toilet.
+Employee 437 is preparing food.
+Person 792 is going to the toilet.
+Person 116 is going to the toilet.
+Person 840 is going to the toilet.
+Person 913 is going to the toilet.
+Person 389 is going to the toilet.
+Person 959 is going to the toilet.
+Person 557 is going to the toilet.
+Person 468 needs to find another seat. Seat was reserved.
+Person 126 is going to the toilet.
+Person 407 is going to the toilet.
+Person 84 is going to the toilet.
+Person 659 is going to the toilet.
+Person 468 is going to the toilet.
+Person 519 is going to the toilet.
+Person 836 needs to find another seat. Seat was reserved.
+Person 772 is going to the toilet.
+Person 766 is going to the toilet.
+Person 220 needs to find another seat. Seat was reserved.
+Person 620 is going to the toilet.
+Person 466 is going to the toilet.
+Person 624 is going to the toilet.
+Person 160 is going to the toilet.
+Person 219 is going to the toilet.
+Person 184 is going to the toilet.
+Person 782 needs to find another seat. Seat was reserved.
+Person 784 needs to find another seat. Seat was reserved.
+Person 462 needs to find another seat. Seat was reserved.
+Person 566 is going to the toilet.
+Person 782 is going to the toilet.
+Person 170 is going to the toilet.
+Person 605 needs to find another seat. Seat was reserved.
+Person 248 is going to the toilet.
+Person 605 is going to the toilet.
+Person 703 is going to the toilet.
+Person 101 is going to the toilet.
+Person 476 is going to the toilet.
+Person 85 is going to the toilet.
+Person 153 is going to the toilet.
+Person 294 is going to the toilet.
+Person 341 is going to the toilet.
+Person 917 is going to the toilet.
+Person 507 is going to the toilet.
+Person 935 is going to the toilet.
+Person 283 is going to the toilet.
+Person 53 is going to the toilet.
+Announcement: Train arriving soon!
+Train  6 arrives at the station.
+Person 153 leaves the train.
+Person 935 leaves the train.
+Person 191 boards the train.
+Person 629 boards the train.
+Person 224 leaves the train.
+Person 260 leaves the train.
+Person 577 leaves the train.
+Person 101 leaves the train.
+Person 650 boards the train.
+Person 79 boards the train.
+Person 972 boards the train.
+Person 294 leaves the train.
+Person 679 boards the train.
+Train  6 departs from the station.
+Train  6 is late by 123.292 minutes.
+Person 809 is going to the toilet.
+Person 721 is going to the toilet.
+Person 307 is going to the toilet.
+Person 226 is going to the toilet.
+Person 158 is going to the toilet.
+Person 438 is going to the toilet.
+Person 636 is going to the toilet.
+Person 467 is going to the toilet.
+Person 365 is going to the toilet.
+Person 121 is going to the toilet.
+Person 660 is going to the toilet.
+Person 777 is going to the toilet.
+Person 731 needs to find another seat. Seat was reserved.
+Person 731 is going to the toilet.
+Person 871 is going to the toilet.
+Person 676 is going to the toilet.
+Person 324 is going to the toilet.
+Person 816 is going to the toilet.
+Person 554 is going to the toilet.
+Person 444 is going to the toilet.
+Person 289 is going to the toilet.
+Announcement: Train arriving soon!
+Train  7 arrives at the station.
+Train  7 departs from the station.
+Train  7 is on time. Transportation time: 2.02569 minutes.
+Announcement: Train arriving soon!
+Train  8 arrives at the station.
+Train  8 departs from the station.
+Train  8 is on time. Transportation time: 51.9974 minutes.
+Announcement: Train arriving soon!
+Train  9 arrives at the station.
+Train  9 departs from the station.
+Train  9 is on time. Transportation time: 7.48475 minutes.
+Announcement: Train arriving soon!
+Train 10 arrives at the station.
+Train 10 departs from the station.
+Train 10 is on time. Transportation time: 15.7572 minutes.
+Person 537 is going to the toilet.
+Announcement: Train arriving soon!
+Train 11 arrives at the station.
+Train 11 departs from the station.
+Train 11 is on time. Transportation time: 24.408 minutes.
+Person 787 is going to the toilet.
+Announcement: Train arriving soon!
+Train 12 arrives at the station.
+Train 12 departs from the station.
+Train 12 is on time. Transportation time: 71.4241 minutes.
+Announcement: Train arriving soon!
+Train 13 arrives at the station.
+Train 13 departs from the station.
+Train 13 is on time. Transportation time: 17.4268 minutes.
+Announcement: Train arriving soon!
+Train 14 arrives at the station.
+Train 14 departs from the station.
+Train 14 is late by 40.9257 minutes.
+Announcement: Train arriving soon!
+Train 15 arrives at the station.
+Train 15 departs from the station.
+Train 15 is on time. Transportation time: 17.2881 minutes.
+Announcement: Train arriving soon!
+Train 16 arrives at the station.
+Train 16 departs from the station.
+Train 16 is on time. Transportation time: 12.8693 minutes.
+Train 17 is in the last station. Cleaning process initiated.
+Train 17 is departing to the depot.
